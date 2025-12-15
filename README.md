@@ -1,4 +1,4 @@
-# 🎬 Movie Recommender System: Multi-Model Approach
+# 🎬 Movie Recommender System: Multi-Model Approach [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/95karthik4/Movie-Recommender-)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Library](https://img.shields.io/badge/Lib-Scikit--Surprise-orange) ![Library](https://img.shields.io/badge/Lib-TuriCreate-green) ![Topic](https://img.shields.io/badge/Topic-Recommender%20Systems-red)
 
